@@ -1,7 +1,7 @@
 # GENOMIC_PREDICTION
 Project Overview: Implements a genomic prediction pipeline using GBLUP, combining BLUE-adjusted phenotypes and SNP marker data to estimate Genomic Estimated Breeding Values (GEBVs) for selection in plant breeding.
 
-Note: The dataset is hypothetical and includes intentional inconsistencies
+Note: The dataset is hypothetical and includes intentional inconsistencies. This is for learning purpose only, not for deployment
 
 Folder Structure: 
 Gene_Prediction_Script/   : R scripts for genomic prediction (GBLUP)
